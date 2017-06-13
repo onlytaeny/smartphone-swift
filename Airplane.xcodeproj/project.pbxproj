@@ -14,7 +14,6 @@
 		7702EA921EEFF02100D0A69B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7702EA901EEFF02100D0A69B /* LaunchScreen.storyboard */; };
 		7702EA9A1EEFF86F00D0A69B /* AirCodeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7702EA991EEFF86F00D0A69B /* AirCodeTableViewController.swift */; };
 		7702EA9C1EEFF8D600D0A69B /* AirCodeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7702EA9B1EEFF8D600D0A69B /* AirCodeViewController.swift */; };
-		7702EA9E1EEFFF7100D0A69B /* NationTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7702EA9D1EEFFF7100D0A69B /* NationTableViewController.swift */; };
 		7702EAA01EF00A1C00D0A69B /* RealTimeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7702EA9F1EF00A1C00D0A69B /* RealTimeViewController.swift */; };
 		7702EAA21EF00BDF00D0A69B /* RealTimeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7702EAA11EF00BDF00D0A69B /* RealTimeTableViewController.swift */; };
 		7702EAA41EF0121900D0A69B /* RealTimeDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7702EAA31EF0121900D0A69B /* RealTimeDetailTableViewController.swift */; };
@@ -35,7 +34,6 @@
 		7702EA931EEFF02100D0A69B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7702EA991EEFF86F00D0A69B /* AirCodeTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AirCodeTableViewController.swift; sourceTree = "<group>"; };
 		7702EA9B1EEFF8D600D0A69B /* AirCodeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AirCodeViewController.swift; sourceTree = "<group>"; };
-		7702EA9D1EEFFF7100D0A69B /* NationTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NationTableViewController.swift; sourceTree = "<group>"; };
 		7702EA9F1EF00A1C00D0A69B /* RealTimeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RealTimeViewController.swift; sourceTree = "<group>"; };
 		7702EAA11EF00BDF00D0A69B /* RealTimeTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RealTimeTableViewController.swift; sourceTree = "<group>"; };
 		7702EAA31EF0121900D0A69B /* RealTimeDetailTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RealTimeDetailTableViewController.swift; sourceTree = "<group>"; };
@@ -87,7 +85,6 @@
 				7702EAA31EF0121900D0A69B /* RealTimeDetailTableViewController.swift */,
 				7702EAA11EF00BDF00D0A69B /* RealTimeTableViewController.swift */,
 				7702EA9F1EF00A1C00D0A69B /* RealTimeViewController.swift */,
-				7702EA9D1EEFFF7100D0A69B /* NationTableViewController.swift */,
 				7702EA9B1EEFF8D600D0A69B /* AirCodeViewController.swift */,
 				7702EA991EEFF86F00D0A69B /* AirCodeTableViewController.swift */,
 				7702EA8E1EEFF02100D0A69B /* Assets.xcassets */,
@@ -170,7 +167,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				7702EA9E1EEFFF7100D0A69B /* NationTableViewController.swift in Sources */,
 				77BD49C61EF02353007E4F68 /* StatsOptionViewController.swift in Sources */,
 				77BD49C41EF022A9007E4F68 /* NoDataTableViewController.swift in Sources */,
 				7702EA9C1EEFF8D600D0A69B /* AirCodeViewController.swift in Sources */,
